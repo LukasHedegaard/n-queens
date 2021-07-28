@@ -12,7 +12,7 @@ Example solutions for the 4-queens problem:
 ```bash
 $ cargo run 4
 
-2 solution were found for the 4-queens problem:
+2 solutions were found for the 4-queens problem:
 
 Solution 1
 ".Q.."
@@ -30,7 +30,7 @@ Solution 2
 ```bash
 $ cargo run 8
 
-92 solution were found for the 4-queens problem:
+92 solutions were found for the 4-queens problem:
 
 Solution 1
 "Q......."
