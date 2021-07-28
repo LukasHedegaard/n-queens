@@ -47,7 +47,7 @@ Solution 1
 
 ## Performance
 
-Queens  | Soluions  | Time
+Queens  | Solutions | Time
 ---     | ---       | --- 
 4       | 2         | 0.1 ms
 5       | 10        | 0.6 ms 
