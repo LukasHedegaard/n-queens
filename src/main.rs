@@ -119,7 +119,7 @@ fn main() {
     let sols: Vec<Vec<String>> = Solution::solve_n_queens(n);
 
     println!(
-        "{} solution were found for the {}-queens problem in {} ms:",
+        "{} solutions were found for the {}-queens problem in {} ms:",
         sols.len(),
         n,
         now.elapsed().as_millis()
